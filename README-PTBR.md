@@ -12,8 +12,6 @@ Next Level Week #02 - Proffy
 <br>
 
 ## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #02 da Rocketseat.
-
 Proffy é uma plataforma Web e também Mobile, que conecta alunos e professores.
 Os professores podem escolher as matérias, dias, horários e custo para lecionar. E os alunos podem escolher seus professores favoritos.
 
