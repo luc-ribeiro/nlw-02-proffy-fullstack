@@ -5,15 +5,19 @@ Next Level Week #02 - Proffy
 
   ![Proffy](https://github.com/luc-ribeiro/nlw-02-proffy/blob/master/design/logo.svg?raw=true)
 </h1>
+
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/nlw-02-proffy-fullstack/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 <br>
 
-## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #02 da Rocketseat.
+## 💻 Project
+This project was created during Rocketseat's Next Level Week #02 event.
 
-Proffy é uma plataforma Web e também Mobile, que conecta alunos e professores.
-Os professores podem escolher as matérias, dias, horários e custo para lecionar. E os alunos podem escolher seus professores favoritos.
+Proffy is a Web and Mobile platform that connects students and teachers.
+Teachers can choose the subjects, days, times, and costs for their lessons. Students can choose their favorite teachers.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - TypeScript
 - NodeJs
@@ -26,86 +30,82 @@ Os professores podem escolher as matérias, dias, horários e custo para leciona
 
 ![banner](https://github.com/luc-ribeiro/nlw-02-proffy/blob/master/design/mockup.png)
 
-## :page_facing_up: Como utilizar
+## :page_facing_up: How to use
 
-Faça um clone deste repositório:
+Clone this repository:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/nlw-02-proffy.git
+  $ git clone https://github.com/luc-ribeiro/nlw-02-proffy-fullstack.git
 ```
 
 #### Back-End
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **server** e execute o comando:
+Start the project, go to the **server** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3333`
+Access the project at `localhost:3333`
 
 #### Front-End
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **web** e execute o comando:
+Start the project, go to the **web** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3000`
+Access the project at `localhost:3000`
 
 #### Mobile
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **mobile** e execute o comando:
+Start the project, go to the **mobile** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-**É necessário ter o aplicativo Expo instalado em seu dispositivo Android ou IOS**
-
-## :memo: License
-
-Copyright © 2020 Lucas Ribeiro / Rocketseat
+**You need to have the Expo app installed on your Android or iOS device**
